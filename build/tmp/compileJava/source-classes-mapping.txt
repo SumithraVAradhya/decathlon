@@ -1,0 +1,8 @@
+com/decathlon/utlities/readProperty.java
+ com.decathlon.utlities.readProperty
+com/decathlon/utlities/BrowserSetup.java
+ com.decathlon.utlities.BrowserSetup
+com/decathlon/main/PageIntilization.java
+ com.decathlon.main.PageIntilization
+com/decathlon/main/SignIn.java
+ com.decathlon.main.SignIn

@@ -1,0 +1,4 @@
+com/decathlon/test/BaseTest.java
+ com.decathlon.test.BaseTest
+com/decathlon/test/SignInTest.java
+ com.decathlon.test.SignInTest
