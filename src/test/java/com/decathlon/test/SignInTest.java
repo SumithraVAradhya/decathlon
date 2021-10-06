@@ -16,7 +16,7 @@ public class SignInTest extends BaseTest {
         readProperty read_details = new readProperty();
         Properties Prop = read_details.fetch_property();
         String messageForLogin = Login(Prop);
-//        Assert.assertTrue(messageForLogin.equals(Prop.getProperty("Message")));
+       Assert.assertTrue(messageForLogin.equals(Prop.getProperty("Message")));
     }
 }
 
